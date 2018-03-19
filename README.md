@@ -1,5 +1,4 @@
 # Project 3: Logs Analysis Project
-### by Mostafa Hashish
 Logs Analysis Project,part of the Udacity [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 
 ## Explanation
